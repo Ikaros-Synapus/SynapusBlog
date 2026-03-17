@@ -3,7 +3,7 @@
 		"width": 410,
 		"height": 230,
 		"order": 1,
-		"offsetX": -180,
+		"offsetX": -230,
 		"offsetY": -375,
 		"enabled": true
 	},
@@ -11,7 +11,7 @@
 		"width": 410,
 		"height": 277,
 		"order": 2,
-		"offsetX": -180,
+		"offsetX": -230,
 		"offsetY": -135,
 		"enabled": true
 	},
@@ -20,7 +20,7 @@
 		"height": 125,
 		"offset": 92,
 		"order": 3,
-		"offsetX": 245,
+		"offsetX": 195,
 		"offsetY": -272,
 		"enabled": true
 	},
@@ -28,7 +28,7 @@
 		"width": 360,
 		"height": 286,
 		"order": 3,
-		"offsetX": 245,
+		"offsetX": 195,
 		"offsetY": -135,
 		"enabled": true
 	},
@@ -37,7 +37,7 @@
 		"height": 80,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -530,
+		"offsetX": -580,
 		"offsetY": 180,
 		"enabled": true
 	},
@@ -45,7 +45,7 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -634,
+		"offsetX": -685,
 		"offsetY": 278,
 		"enabled": true
 	},
@@ -53,7 +53,7 @@
 		"width": 360,
 		"height": 195,
 		"order": 7,
-		"offsetX": 245,
+		"offsetX": 195,
 		"offsetY": 160,
 		"enabled": true
 	},
@@ -61,7 +61,7 @@
 		"width": 410,
 		"height": 200,
 		"order": 4,
-		"offsetX": -180,
+		"offsetX": -230,
 		"offsetY": 152,
 		"enabled": true
 	},
@@ -69,7 +69,7 @@
 		"height": 50,
 		"width": 172,
 		"order": 8,
-		"offsetX": 330,
+		"offsetX": 280,
 		"offsetY": -338,
 		"enabled": true
 	},
@@ -77,7 +77,7 @@
 		"width": 335,
 		"height": 424,
 		"order": 1,
-		"offsetX": -530,
+		"offsetX": -580,
 		"offsetY": -258,
 		"enabled": true
 	},
@@ -85,7 +85,7 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": -301,
+		"offsetX": -350,
 		"offsetY": 275,
 		"enabled": true
 	},
@@ -93,7 +93,7 @@
 		"width": 99,
 		"height": 105,
 		"order": 10,
-		"offsetX": -48,
+		"offsetX": -100,
 		"offsetY": -168,
 		"enabled": false
 	},
