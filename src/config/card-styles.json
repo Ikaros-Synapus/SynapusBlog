@@ -34,11 +34,11 @@
 	},
 	"musicCard": {
 		"width": 335,
-		"height": 65,
+		"height": 80,
 		"offset": 120,
 		"order": 6,
 		"offsetX": -525,
-		"offsetY": 180,
+		"offsetY": 175,
 		"enabled": true
 	},
 	"socialButtons": {
