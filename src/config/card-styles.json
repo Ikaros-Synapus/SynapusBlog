@@ -33,7 +33,7 @@
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 325,
+		"width": 335,
 		"height": 65,
 		"offset": 120,
 		"order": 6,
@@ -74,7 +74,7 @@
 		"enabled": true
 	},
 	"navCard": {
-		"width": 325,
+		"width": 335,
 		"height": 424,
 		"order": 1,
 		"offsetX": -530,
