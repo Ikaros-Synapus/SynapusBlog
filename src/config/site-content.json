@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Synapus",
+		"description": "Ikaros 的个人博客",
+		"username": "Ikaros"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -32,39 +32,36 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
-		}
-	],
-	"currentBackgroundImageId": "",
-	"socialButtons": [
-		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
 		},
 		{
+			"id": "0635880adc5d48f3",
+			"url": "/images/background/0635880adc5d48f3.jpg"
+		}
+	],
+	"currentBackgroundImageId": "0635880adc5d48f3",
+	"socialButtons": [
+		{
 			"id": "juejin",
-			"type": "juejin",
+			"type": "tg",
 			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"label": "Telegram",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "ikarosvsynapus@163.com",
 			"label": "",
 			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
